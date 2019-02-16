@@ -9,7 +9,7 @@ Repo for presentation and demo code samples for talk at Serverless Days 2019, Ja
 See the slides for the talk [HERE](https://www.slideshare.net/sonal-raj/iot-and-home-automation-with-serverless-computing-serverless-days-2019-sonal-raj-jaipur) or download from this repository.
 
 # Code templates
-This repository contains some of the code templates used in the talk at the HydPy session. 
+This repository contains some of the code templates used in the talk at Serverless Days 2019, Jaiput, India. 
 The code segments are intended to be a guide and starting point for beginning to write your first IOT application. 
 
 ## Libraries Referenced
